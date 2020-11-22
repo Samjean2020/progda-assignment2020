@@ -19,15 +19,17 @@ To perform the above tasks on a Jupyter notebook, the following Python modules a
 	Seaborn
 The above libraries must be imported. NumPy stands for Numerical Python. It provides inclusive mathematical functions, random number generators, linear algebra, Fourier transforms, to name but a few (numpy.org). NumPy can be imported as: <import numpy as np>. Matplotlib.pyplot is an interface to matplotlib based on state. It offers MATLAB-based plotting method (matplotlib.org, 2020). Matplotlib.pyplot can be imported as: <import matplotlib.pyplot as plt>. Pandas  is an open source tool for data analysis and manipulation (pandas.pydata.org, 2020). Pandas can be imported as: <import pandas as pd>.  Seaborn is a data visualisation library based on matplotlib in Python. It offers a drawing attractive and informative statistical graphics interface (seaborn.pydata.org, 2020). Seaborn can be imported as: <import seaborn as sns>.  And naturally, you have Python and Jupyter. 
 
-                                                       About the four tasks:
-1.	Explaining the overarching purpose of the package: this part provides a definition of the numpy.random package, its different structures including simple random data, permutations, distribution and Generators and an indicative example of each sub- function: numpy.random.rand (), numpy.random shuffle(),numpy.random.dirichlet (), and  numpy.random.RandomState.pareto ().
+                                                      About the four tasks:
+                                                    1.Explaining the overarching purpose of the package: 
 
-2.	Explaining the use of the “Simple random data” and “Permutations functions:
+This part provides a definition of the numpy.random package, its different structures including simple random data, permutations, distribution and Generators and an indicative example of each sub- function: numpy.random.rand (), numpy.random shuffle(),numpy.random.dirichlet (), and  numpy.random.RandomState.pareto ().
+
+                                                    2.Explaining the use of the “Simple random data” and “Permutations functions:
 
 •	Simple random data (): numpy.random.randint(), numpy.random.random-sample (), numpy.random.bytes(), and numpy.random.choice()
 •	Permutations (): numpy.random.shuffle(), and numpy.random.permutation().
 
-3.	Explaining the use and purpose of at least five “Distributions” functions:
+                                                    3.Explaining the use and purpose of at least five “Distributions” functions:
 
 •	numpy.random.normal ()
 •	numpy.random.uniform()
@@ -36,8 +38,8 @@ The above libraries must be imported. NumPy stands for Numerical Python. It prov
 •	numpy.random.poisson ()
 •	numpy.random.gamma( )
 
-4.	Explaining the use of seeds in generating pseudorandom numbers: 
-    Three elements are covered in this part:
+                                                    4. Explaining the use of seeds in generating pseudorandom numbers: 
+ Three elements are covered in this part:
     
 •	Random Sate and Generators: numpy.random.RandomState (); numpy.random.seed(); 
 •	Bitgenerators and PCG64 Algorithm: numpy.random.default_rng()
