@@ -3,7 +3,7 @@
                                                         Introduction
 
 This assessment is about numpy.random package in Python. It is designed to present a less robotic approach of the module, using Python language routine and novel algorithms such as PCG64 on a Jupyter Notebook. 
-Jupyter Notebook is a web application with properties to create and share manuscripts containing live scripts, equations, visualisations and narrative messages. Data cleaning and transformation, numerical simulation, statistical modeling, data visualisation, machine learning are some of its attributes (jupyter.org, 2020)
+Jupyter Notebook is a web application with properties to create and share manuscripts containing live scripts, equations, visualisations and narrative messages. Data cleaning and transformation, numerical simulation, statistical modeling, data visualisation, machine learning are some of its attributes (jupyter, 2020)
 
                                                         Tasks
 	Explaining the overarching purpose of the package
@@ -17,7 +17,7 @@ To perform the above tasks on a Jupyter notebook, the following Python modules a
 	Matplotlib.pyplot
 	Pandas
 	Seaborn
-The above libraries must be imported. NumPy stands for Numerical Python. It provides inclusive mathematical functions, random number generators, linear algebra, Fourier transforms, to name but a few (numpy.org). NumPy can be imported as: <import numpy as np>. Matplotlib.pyplot is an interface to matplotlib based on state. It offers MATLAB-based plotting method (matplotlib.org, 2020). Matplotlib.pyplot can be imported as: <import matplotlib.pyplot as plt>. Pandas  is an open source tool for data analysis and manipulation (pandas.pydata.org, 2020). Pandas can be imported as: <import pandas as pd>.  Seaborn is a data visualisation library based on matplotlib in Python. It offers a drawing attractive and informative statistical graphics interface (seaborn.pydata.org, 2020). Seaborn can be imported as: <import seaborn as sns>.  And naturally, you have Python and Jupyter. 
+The above libraries must be imported. NumPy stands for Numerical Python. It provides inclusive mathematical functions, random number generators, linear algebra, Fourier transforms, to name but a few (numpy.org). NumPy can be imported as: <import numpy as np>. Matplotlib.pyplot is an interface to matplotlib based on state. It offers MATLAB-based plotting method (matplotlib, 2020). Matplotlib.pyplot can be imported as: <import matplotlib.pyplot as plt>. Pandas  is an open source tool for data analysis and manipulation (pandas.pydata, 2020). Pandas can be imported as: <import pandas as pd>.  Seaborn is a data visualisation library based on matplotlib in Python. It offers a drawing attractive and informative statistical graphics interface (seaborn.pydata, 2020). Seaborn can be imported as: <import seaborn as sns>.  And naturally, you have Python and Jupyter. 
 
                                                       About the four tasks:
                                                     1.Explaining the overarching purpose of the package: 
